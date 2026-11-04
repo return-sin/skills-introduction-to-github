@@ -10,6 +10,11 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/return-sin/skills-introduction-to-github/issues/1)
 
+## Learning notes
+
+- [English workflow quick reference](LEARNING_NOTES.md)
+- [中文 GitHub 入门速查](LEARNING_NOTES.zh-CN.md)
+
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
